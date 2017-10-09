@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 
 echo "Hello World!"
-echo "Hello Planet!"
+echo "Hello Planets!"
 echo "Hello Mercury!"
 echo "Hello Venus!"
+echo "Hello Earth!"
 
 #[end]#
