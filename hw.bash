@@ -7,8 +7,9 @@ echo "Hello Mercury!"
 echo "Hello Venus!"
 echo "Hello Earth!"
 echo "Hello Mars!"
-echo "Hello Saturn!"
 echo "Hello Jupiter!"
+echo "Hello Saturn!"
 echo "Hello Uranus!"
+echo "Hello Neptune!"
 
 #[end]#
