@@ -13,4 +13,6 @@ echo "Hello Uranus!"
 echo "Hello Neptune!"
 echo "Hello Pluto!"
 
+echo "Hello GazornoPlatz!"
+
 #[end]#
