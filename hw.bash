@@ -2,6 +2,6 @@
 
 echo "Hello World!"
 echo "Hello Planet!"
-echo "Hello SolarSystem!"
+echo "Hello Mercury!"
 
 #[end]#
